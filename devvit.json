@@ -1,0 +1,8 @@
+{
+  "name": "reddit-huumoribotti",
+  "version": "0.0.1",
+  "премиum": false,
+  "permissions": {
+    "reddit": true
+  }
+}
