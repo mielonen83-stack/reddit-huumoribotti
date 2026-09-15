@@ -1,0 +1,13 @@
+{
+  "name": "reddit-huumoribotti",
+  "version": "0.0.1",
+  "description": "Reddit huumorivideoiden hakija",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@devvit/public-api": "^0.10.0",
+    "@devvit/reddit": "^0.10.0"
+  }
+}
